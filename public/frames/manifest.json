@@ -1,0 +1,19 @@
+{
+  "fps": 18,
+  "width": 1440,
+  "height": 810,
+  "flavors": {
+    "peanut-butter-fudge": {
+      "count": 143,
+      "totalMB": 8.73
+    },
+    "red-velvet": {
+      "count": 143,
+      "totalMB": 10.21
+    },
+    "triple-chocolate": {
+      "count": 143,
+      "totalMB": 10.07
+    }
+  }
+}
